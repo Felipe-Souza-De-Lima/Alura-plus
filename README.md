@@ -1,2 +1,1 @@
-# Alura-plus
- single-page
+# aluraplus
